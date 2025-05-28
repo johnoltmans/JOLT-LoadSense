@@ -1,20 +1,23 @@
-document.addEventListener('DOMContentLoaded', function () {
-  const preloader = document.getElementById('jolt-preloader');
-  if (!preloader) return;
+(function(){
+    // Haal instellingen op vanuit localized object
+    var mode = JOLTLoadSenseData.mode || 'real';
 
-  const mode = JOLTLoadSenseData?.mode || 'real';
+    function hidePreloader() {
+        var preloader = document.getElementById('jolt-preloader');
+        if(preloader) {
+            preloader.style.display = 'none';
+        }
+    }
 
-  if (mode === 'fake') {
-    // Fake mode: altijd 3 seconden tonen
-    setTimeout(() => {
-      preloader.classList.add('fade-out');
-      setTimeout(() => preloader.remove(), 500);
-    }, 3000);
-  } else {
-    // Real mode: wacht op volledige load
-    window.addEventListener('load', () => {
-      preloader.classList.add('fade-out');
-      setTimeout(() => preloader.remove(), 500);
-    });
-  }
-});
+    if(mode === 'fake') {
+        // Fake mode: altijd 3 seconden tonen
+        window.addEventListener('load', function(){
+            setTimeout(hidePreloader, 3000);
+        });
+    } else {
+        // Real mode: wacht tot volledige load inclusief fonts, images, scripts
+        window.addEventListener('load', function(){
+            hidePreloader();
+        });
+    }
+})();
