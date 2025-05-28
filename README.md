@@ -1,5 +1,5 @@
 # JOLT™ LoadSense 1.1
-<img src="https://github.com/user-attachments/assets/264ca8a4-3708-4ec1-a055-5e6c6a4755dc" alt="Image for the wordpress plugin" width="300" >
+<img src="https://github.com/user-attachments/assets/d74f29bf-4b3e-4972-8e37-21b8131054a7" alt="Image for the wordpress plugin" width="300" >
 
 A true preloader that waits until the entire page has fully loaded (images, scripts, fonts) before showing the content.<br>
 Privacy Focussed, safe and open source.
