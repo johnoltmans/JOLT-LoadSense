@@ -1,4 +1,4 @@
-# JOLT™ LoadSense 1.1
+# JOLT™ LoadSense 1.2
 <img src="https://github.com/user-attachments/assets/d74f29bf-4b3e-4972-8e37-21b8131054a7" alt="Image for the wordpress plugin" width="300" >
 
 
