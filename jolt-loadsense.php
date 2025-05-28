@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: JOLT™ LoadSense
-Plugin URI: https://github.com/johnoltmans
+Plugin URI: https://github.com/johnoltmans/JOLT-LoadSense
 Description: A true preloader that waits until the entire page has fully loaded (images, scripts, fonts) before showing the content.
 Version: 1.0
 Author: John Oltmans
