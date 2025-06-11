@@ -10,11 +10,14 @@ Download the plugin [here](https://github.com/johnoltmans/JOLT-LoadSense/archive
 You can read how to install [here](https://github.com/Smoshed/WordPress-Plugins/wiki/How-to-install-the-plugins).
 #
 
-![2025-05-27 15_04_58-asus-rog-strix-3840x2160-16722 jpg (JPEG Image, 3840 × 2160 pixels) — Scaled (44](https://github.com/user-attachments/assets/c6ee4d64-b4cf-4181-8489-79509405a80b)
+![2025-06-11 14_10_52-Greenshot](https://github.com/user-attachments/assets/6c608bfb-a90c-4993-b358-b9b7e9c97bbf)
 
-![2025-05-27 15_06_52-Greenshot](https://github.com/user-attachments/assets/2334a4b0-182e-4714-9669-5c00bb93766a)
+![2025-06-11 14_35_50-Greenshot](https://github.com/user-attachments/assets/976c1dad-e4dd-4e2f-8622-6c516bc0c30d)
 
-![2025-05-27 15_07_51-JOLT UploadFlex Settings ‹ WordpressDevTest — WordPress — Waterfox](https://github.com/user-attachments/assets/e41d5194-c456-4520-8dab-464cf7661a9e)
+![2025-06-11 14_37_51-Greenshot](https://github.com/user-attachments/assets/8038ee5d-d38e-4204-a263-33fc9ecc47e3)
+
+![2025-06-11 14_39_58-Greenshot](https://github.com/user-attachments/assets/2de4c887-24e6-4b79-82d8-ac155996852d)
+
 
 #
 # How to install the plugin.
