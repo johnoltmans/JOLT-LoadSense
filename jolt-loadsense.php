@@ -6,6 +6,8 @@ Description: A true preloader that waits until the entire page has fully loaded 
 Version: 1.3
 Author: John Oltmans
 Author URI: https://www.johnoltmans.nl/
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 */
 
 // Add Settings link next to Deactivate in Plugins overview
