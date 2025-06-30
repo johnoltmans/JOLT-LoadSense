@@ -1,4 +1,4 @@
-# JOLT™ LoadSense
+# JOLT LoadSense
 <img src="https://github.com/user-attachments/assets/2023fb9d-3c15-486e-9faf-4f4a167f01e4" alt="Image for the wordpress plugin" width="300" >
 
 A true preloader that waits until the entire page has fully loaded (images, scripts, fonts) before showing the content.<br>
@@ -26,7 +26,7 @@ You can read https://github.com/Smoshed/WordPress-Plugins/wiki/How-to-install-th
 
 ## 🛡 License
 
-JOLT ThemeFork is open source software licensed under the [GNU General Public License v2.0 or later](https://www.gnu.org/licenses/gpl-2.0.html).
+JOLT LoadSense is open source software licensed under the [GNU General Public License v2.0 or later](https://www.gnu.org/licenses/gpl-2.0.html).
 
 ### ⚠️ Fair Use Reminder
 
