@@ -6,7 +6,7 @@ Privacy Focussed, safe and open source.
 #
 ### Download your plugin here
 Download the plugin [here](https://github.com/johnoltmans/JOLT-LoadSense/archive/refs/heads/main.zip).<br>
-You can read how to install [here](https://github.com/Smoshed/WordPress-Plugins/wiki/How-to-install-the-plugins).
+You can read how to install [here](https://github.com/johnoltmans/WordPress/wiki/How-to-install-the-plugins).
 #
 
 ![2025-06-11 14_10_52-Greenshot](https://github.com/user-attachments/assets/6c608bfb-a90c-4993-b358-b9b7e9c97bbf)
