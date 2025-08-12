@@ -19,13 +19,8 @@ You can read how to install [here](https://github.com/johnoltmans/WordPress/wiki
 
 ![2025-06-11 14_39_58-Greenshot](https://github.com/user-attachments/assets/2de4c887-24e6-4b79-82d8-ac155996852d)
 
-
-#
-# How to install the plugin.
-You can read https://github.com/Smoshed/WordPress-Plugins/wiki/How-to-install-the-plugins for more info.
-
----
 ## 🛡 Security, Privacy & Usage Policy
 
 To read more about my Security, privacy and Usage Policy,<br>
 Please follow this link: https://github.com/johnoltmans/WordPress/blob/main/SECURITY.md
+
