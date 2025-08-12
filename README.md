@@ -2,7 +2,9 @@
 <img src="https://github.com/user-attachments/assets/2023fb9d-3c15-486e-9faf-4f4a167f01e4" alt="Image for the wordpress plugin" width="300" >
 
 A true preloader that waits until the entire page has fully loaded (images, scripts, fonts) before showing the content.<br>
-Privacy Focussed, safe and open source.
+
+All the plugins and or themes that i present to you are [privacy focussed, secure and open source](https://github.com/johnoltmans/WordPress/blob/main/SECURITY.md).
+
 #
 ### Download your plugin here
 Download the plugin [here](https://github.com/johnoltmans/JOLT-LoadSense/archive/refs/heads/main.zip).<br>
@@ -34,3 +36,4 @@ This plugin is licensed under the GPL, which permits redistribution.
 However, out of respect for the author's work, please do not republish it under your own name or branding.
 
 Contributions, forks, and suggestions are always welcome via GitHub.
+
