@@ -6,8 +6,8 @@ Description: JOLT Gate is a WordPress plugin that lets you easily change the def
 Version: 1.0
 Author: John Oltmans
 Author URI: https://www.johnoltmans.nl/
-License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+License: GPLv3 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
 */
 
 // Add Settings link next to Deactivate in Plugins overview
