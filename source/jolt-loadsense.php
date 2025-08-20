@@ -1,13 +1,32 @@
 <?php
 /*
-Plugin Name: JOLT™ LoadSense
-Plugin URI: https://github.com/johnoltmans/JOLT-Gate
-Description: JOLT Gate is a WordPress plugin that lets you easily change the default login URL (wp-login.php) to a custom, unique URL. Increase your site’s security by hiding the login page behind a personalized path.
+Plugin Name: JOLT LoadSense
+Plugin URI: https://github.com/johnoltmans/JOLT-LoadSense
+Description: Add a stylish preloader to your WordPress site to indicate to visitors that the page is still loading. Easy to install and customize for an enhanced user experience.
 Version: 1.0
+Requires at least: 6.8
+Requires PHP: 7.4
 Author: John Oltmans
 Author URI: https://www.johnoltmans.nl/
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: stylish-preloader-for-wordpress-by-john-oltmans
+*/
+
+/*
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 */
 
 // Add Settings link next to Deactivate in Plugins overview
