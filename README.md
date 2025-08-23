@@ -3,12 +3,12 @@
 
 A true preloader that waits until the entire page has fully loaded (images, scripts, fonts) before showing the content.<br>
 
-All the plugins and or themes that i present to you are [privacy focussed, secure and open source](https://github.com/johnoltmans/WordPress/blob/main/SECURITY.md).
+All the plugins and or themes that i present to you are [privacy focussed, secure and open source](https://github.com/DevAldon/WordPress/blob/main/SECURITY.md).
 
 #
 ### Download your plugin here
-Download the plugin [here](https://github.com/johnoltmans/JOLT-LoadSense/archive/refs/heads/main.zip).<br>
-You can read how to install [here](https://github.com/johnoltmans/WordPress/wiki/How-to-install-the-plugins).
+Download the plugin [here](https://github.com/DevAldon/JOLT-LoadSense/archive/refs/heads/main.zip).<br>
+You can read how to install [here](https://github.com/DevAldon/WordPress/wiki/How-to-install-the-plugins).
 #
 
 ![2025-06-11 14_10_52-Greenshot](https://github.com/user-attachments/assets/6c608bfb-a90c-4993-b358-b9b7e9c97bbf)
@@ -22,5 +22,5 @@ You can read how to install [here](https://github.com/johnoltmans/WordPress/wiki
 ## 🛡 Security, Privacy & Usage Policy
 
 To read more about my Security, privacy and Usage Policy,<br>
-Please follow this link: https://github.com/johnoltmans/WordPress/blob/main/SECURITY.md
+Please follow this link: https://github.com/DevAldon/WordPress/blob/main/SECURITY.md
 
